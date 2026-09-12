@@ -24,7 +24,9 @@ This build is focused on testing the core gameplay systems and duel flow.
 * Ritual Summoning
 * Custom Card Effects
 
-
+<img width="3841" height="2091" alt="Image" src="https://github.com/user-attachments/assets/3f8b516f-ad51-43b7-95de-f9534a33ef83" />
+<img width="3840" height="2087" alt="Image" src="https://github.com/user-attachments/assets/3d750b42-a9a8-4709-84bf-240dac2c8895" />
+<img width="3841" height="2086" alt="Image" src="https://github.com/user-attachments/assets/f239d32b-aed8-4089-8f61-444636fd4744" />
 
 ## Game Modes
 
