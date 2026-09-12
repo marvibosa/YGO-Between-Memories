@@ -9,8 +9,9 @@ This build is focused on testing the core gameplay systems and duel flow.
 * XYZ and Pendulum monsters currently do not have their effects implemented.
 * LINK monsters are still in an experimental testing phase.
 * Online Multiplayer is not available in this build.
-* For online matches with friends, we recommend using **Parsec**.
+* For online matches with friends, we recommend using [Parsec](https://parsec.app/).
 
+[Download Here](https://github.com/marvibosa/YGO-Between-Memories/releases/tag/alpha)
 ## About
 
 **Between Memories** aims to recreate and expand the gameplay of *Yu-Gi-Oh! Forbidden Memories* while introducing mechanics inspired by modern Yu-Gi-Oh! games.
