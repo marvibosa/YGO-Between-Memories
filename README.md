@@ -82,7 +82,7 @@ Some placeholder assets may have been created with the assistance of AI tools an
 
 ### Programming & Game Design
 
-Maarvibosa
+Marvibosa
 
 ### Engine
 
