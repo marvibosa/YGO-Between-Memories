@@ -3,10 +3,10 @@
 A fan game inspired by **Yu-Gi-Oh! Forbidden Memories**, developed in **Unity**.
 
 ## Version 0.0.1b Notes
+
 Select Display on StartGame.
 Fix Dark Magician of Chaos crash.
 Fix Red-Eyes Dark Dragoon Piercing Damage.
-
 
 This build is focused on testing the core gameplay systems and duel flow.
 * XYZ and Pendulum monsters currently do not have their effects implemented.
