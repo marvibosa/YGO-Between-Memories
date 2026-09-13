@@ -14,7 +14,7 @@ This build is focused on testing the core gameplay systems and duel flow.
 * Online Multiplayer is not available in this build.
 * For online matches with friends, we recommend using [Parsec](https://parsec.app/).
 
-[Download Here]([https://github.com/marvibosa/YGO-Between-Memories/releases/tag/alpha](https://github.com/marvibosa/YGO-Between-Memories/releases))
+[Download Here](https://github.com/marvibosa/YGO-Between-Memories/releases)
 ## About
 
 **Between Memories** aims to recreate and expand the gameplay of *Yu-Gi-Oh! Forbidden Memories* while introducing mechanics inspired by modern Yu-Gi-Oh! games.
